@@ -1,4 +1,4 @@
-# ImageProcessing
+# Image Processing using CUDA
 
 ### 1. Grayscale Conversion
 
